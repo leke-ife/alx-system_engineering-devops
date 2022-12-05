@@ -1,0 +1,2 @@
+#!/bin/bash
+fine . -type t -name "*.js" -delete
